@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8C20F5D543C0D443D89C3A0A1343841DF4DBFDB4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8C20F5D543C0D443D89C3A0A1343841DF4DBFDB4" : 0,
+    "7D54BAE2F59F20F9A1C966929B6178E608E34677" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5472FA2B-5EBB-4FBB-B50A-EBE7CC98729E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8C20F5D543C0D443D89C3A0A1343841DF4DBFDB4" : "Course_UI\/",
+    "7D54BAE2F59F20F9A1C966929B6178E608E34677" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CATransform3D",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "UI_CourseCode\/UI30_CATransForm3D(3D特效)\/CATransform3D\/CATransform3D.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.oschina.net\/yuancao.scott\/KnowledgePreview.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7D54BAE2F59F20F9A1C966929B6178E608E34677"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.oschina.net\/yuancao.scott\/Course_UI.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8C20F5D543C0D443D89C3A0A1343841DF4DBFDB4"
+    }
+  ]
+}
